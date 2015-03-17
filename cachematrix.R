@@ -44,4 +44,6 @@ cacheSolve <- function(x, ...) {
     
     ## Return the calculated inverse value
     i
+    
+    ## Comment for commit
 }
